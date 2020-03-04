@@ -1,18 +1,14 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/sonatype-nexus-community/struts2-rce/depshield.svg)](https://depshield.github.io)
-
-## Exploit Demo for CVE-2017-5638
-
-Completely based on https://github.com/piesecurity/apache-struts2-CVE-2017-5638
-
-A realistic scenario where a reference project for a framework is deployed on a container but with terrible consequences. To familiarise yourself look at the code and compile it. Also investigate the dockerfile - does anything specific rise to get our attention?
-
-Shows how easily every day decisions and multiple vulnerabilities in chain can be leveraged.
+## Sonatype Hacking Workshop - DevOps Days Jakarta
 
 ### Usage:
 Pre-requisites:
-1. have a JDK installed,
-1. have Docker installed, Docker Desktop for Mac or Win
-1. ideally have Python installed (can be replaced by [Jython](https://www.jython.org/))
+1. OpenJDK 8
+   (Windows & Linux: https://openjdk.java.net/install/)
+   Mac: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
+
+1. [Install Maven](https://maven.apache.org/download.cgi)
+
+1. [Python](https://www.python.org/downloads/)
 
 To prepare:
 1. clone this repo
