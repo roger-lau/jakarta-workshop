@@ -5,7 +5,7 @@
 
 
 1. OpenJDK 8
-   * Windows & Linux: https://openjdk.java.net/install/   
+   * Windows & Linux: https://jdk.java.net/java-se-ri/8-MR3
    * Mac: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
 
 1. Install Maven: https://maven.apache.org/download.cgi
