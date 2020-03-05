@@ -13,3 +13,5 @@ While waiting, please follow the instruction below.
 1. Install Python: https://www.python.org/downloads/
 
 1. Download this code: https://github.com/roger-lau/jakarta-workshop
+
+> Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
