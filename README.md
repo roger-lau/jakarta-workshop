@@ -6,8 +6,8 @@
    * Linux command line (apt-get/yum): https://openjdk.java.net/install/
    * Mac: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
    * Make sure you are installing JDK 1.8, not the JRE.
-   * Set environment variable https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/
-   * Set JAVA_HOME
+   * Set environment variable in Windows: https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/
+   * Set `JAVA_HOME` to the directory where JDK is installed, without the bin/ folder.
 	
 	###### Check the installation
 	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
