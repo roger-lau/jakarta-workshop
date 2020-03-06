@@ -4,11 +4,16 @@
 
 
 
-1. OpenJDK 8
-   * Windows & Linux: https://jdk.java.net/java-se-ri/8-MR3
+1. Install OpenJDK 1.8
+   * Windows & Linux Installers: https://jdk.java.net/java-se-ri/8-MR3
+   * Linux (Using command line): https://openjdk.java.net/install/
    * Mac: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
 
-1. Install Maven: https://maven.apache.org/download.cgi
+   * Set environment variable https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/
+   * Set JAVA_HOME
+   > Note: Make sure you install JDK 1.8, not the JRE.
+
+1. Install Maven : https://maven.apache.org/download.cgi
 
 1. Install Python: https://www.python.org/downloads/
 
