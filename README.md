@@ -10,7 +10,7 @@
    * Set JAVA_HOME
 	
 	###### Check the installation
-	> Type `java -version`. It should return `version "1.8.XXXXX"
+	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
    
 
 1. Install Maven : https://maven.apache.org/download.cgi
