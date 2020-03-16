@@ -1,12 +1,7 @@
 # Welcome to Sonatype Hacking Workshop!
 Follow the instructions below to get started.
 Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
-
-
-
-
-
-
+<br /><br /><br />
 
 ## Windows
 1. Install OpenJDK 1.8
@@ -62,7 +57,6 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 1. Download this code: https://github.com/roger-lau/jakarta-workshop
 > Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
 
-
-##### Great! You are done now. Reach out to others around you if you see them struggling. 
-
-[Start now &#8594;](https://github.com/roger-lau/jakarta-workshop/blob/master/docs/index.md)
+<br /><br /><br />
+# Great! You are done now.
+Reach out to others around you if you see them struggling. [Next: Step 1](./docs/step-1.md)
