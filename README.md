@@ -22,3 +22,5 @@
 > Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
 
 ##### Great! You are done now. Reach out to others around you if you see them struggling. 
+
+[Start now->](https://github.com/roger-lau/jakarta-workshop/blob/master/docs/index.md)
