@@ -9,13 +9,17 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
    * Set the path to `bin\` to `PATH` environment variable, e.g., `C:\java-se-8u41-ri\bin\`
    * Set the path to the installation folder to `JAVA_HOME` environment variable, e.g., `C:\java-se-8u41-ri\`
 
-	   ###### Note:
+	###### Note:
 	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
 	  
-	  ###### Check:
-		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
+	###### Check:
+	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
 
-1. Download and install maven
+1. Install Maven: https://maven.apache.org/download.cgi
+1. Install Python: https://www.python.org/downloads/
+1. Download this code: https://github.com/roger-lau/jakarta-workshop
+> Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
+
 
 ## Linux
 1. Install OpenJDK 1.8
@@ -33,39 +37,26 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
 	   
 
-	   	###### Check:
-		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
-
+	###### Check:
+	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
+1. Install Maven: https://maven.apache.org/download.cgi
+1. Install Python: https://www.python.org/downloads/
+1. Download this code: https://github.com/roger-lau/jakarta-workshop
+> Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
 
 ## Mac
 1. Install OpenJDK 1.8
    * Run `brew tap AdoptOpenJDK/openjdk`
    * Run `brew cask install adoptopenjdk8`
 
-		###### Check:
-		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
-   
-## Backlog
-1. Install OpenJDK 1.8
-   * [Windows & Linux Installers](https://jdk.java.net/java-se-ri/8-MR3)
-   * [Linux command line (apt-get/yum)](https://openjdk.java.net/install/) (sudo apt update first before installing)
-   * [Mac](https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/)
-   * Make sure you are installing JDK 1.8, not the JRE.
-   * Set environment variable in Windows: [https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/]
-   * Set `JAVA_HOME` to the directory where JDK is installed, without the bin/ folder.
-	
-	###### Check the installation:
+	###### Check:
 	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
-   
-
-1. Install Maven : https://maven.apache.org/download.cgi
-
+1. Install Maven: https://maven.apache.org/download.cgi
 1. Install Python: https://www.python.org/downloads/
-
 1. Download this code: https://github.com/roger-lau/jakarta-workshop
-
 > Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
+
 
 ##### Great! You are done now. Reach out to others around you if you see them struggling. 
 
-[Start now->](https://github.com/roger-lau/jakarta-workshop/blob/master/docs/index.md)
+[Start now &#8594;](https://github.com/roger-lau/jakarta-workshop/blob/master/docs/index.md)
