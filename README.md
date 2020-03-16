@@ -1,5 +1,5 @@
 # Welcome to Sonatype Hacking Workshop!
-##### Follow the instruction below.
+Follow the instructions below to get started.
 Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
 ## Windows
