@@ -1,6 +1,6 @@
 # Welcome to Sonatype Hacking Workshop!
 ##### Follow the instruction below.
-[Linux](#linux)
+Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
 ## Windows
 1. Install OpenJDK 1.8
