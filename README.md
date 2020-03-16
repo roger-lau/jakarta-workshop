@@ -2,7 +2,7 @@
 ##### Follow the instruction below.
 
 1. Install OpenJDK 1.8
-   * Windows & Linux Installers: https://jdk.java.net/java-se-ri/8-MR3
+   * Windows & Linux Installers: [text](https://jdk.java.net/java-se-ri/8-MR3)
    * Linux command line (apt-get/yum): https://openjdk.java.net/install/ (sudo apt update first before installing)
    * Mac: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
    * Make sure you are installing JDK 1.8, not the JRE.
