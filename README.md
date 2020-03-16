@@ -1,5 +1,6 @@
-# Welcome to Sonatype Hacking Workshop - DevOps Days Jakarta!
+# Welcome to Sonatype Hacking Workshop!
 ##### Follow the instruction below.
+[Linux](#linux)
 
 ## Windows
 1. Install OpenJDK 1.8
@@ -9,7 +10,7 @@
    * Set the path to the installation folder to `JAVA_HOME` environment variable, e.g., `C:\java-se-8u41-ri\`
 
 	   ###### Note:
-	   > If download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
+	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
 
 1. Download and install maven
 
@@ -25,6 +26,8 @@
    * Run `tar xvf openjdk-*.tar.gz` to untar the downloaded file to folder of your choice, e.g., `/opt/`
    * Set the path to `bin/` to `PATH` environment variable, e.g., `/opt/java-se-8u41-ri/bin/`
    * Set the path to the installation folder to `JAVA_HOME` environment variable, e.g., `/opt/java-se-8u41-ri/`
+   ###### Note:
+	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
 
 1. Install OpenJDK 1.8
    * [Windows & Linux Installers](https://jdk.java.net/java-se-ri/8-MR3)
@@ -34,7 +37,7 @@
    * Set environment variable in Windows: [https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/]
    * Set `JAVA_HOME` to the directory where JDK is installed, without the bin/ folder.
 	
-	###### Check the installation
+	###### Check the installation:
 	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
    
 
