@@ -11,6 +11,9 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
 	   ###### Note:
 	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
+	  
+	  ###### Check:
+		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
 
 1. Download and install maven
 
@@ -28,7 +31,21 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
    * Set the path to the installation folder to `JAVA_HOME` environment variable, e.g., `/opt/java-se-8u41-ri/`
    ###### Note:
 	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
+	   
 
+	   	###### Check:
+		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
+
+
+## Mac
+1. Install OpenJDK 1.8
+   * Run `brew tap AdoptOpenJDK/openjdk`
+   * Run `brew cask install adoptopenjdk8`
+
+		###### Check:
+		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
+   
+## Backlog
 1. Install OpenJDK 1.8
    * [Windows & Linux Installers](https://jdk.java.net/java-se-ri/8-MR3)
    * [Linux command line (apt-get/yum)](https://openjdk.java.net/install/) (sudo apt update first before installing)
