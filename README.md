@@ -2,6 +2,12 @@
 Follow the instructions below to get started.
 Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
+
+
+
+
+
+
 ## Windows
 1. Install OpenJDK 1.8
    * Download this file: https://download.java.net/openjdk/jdk8u41/ri/openjdk-8u41-b04-windows-i586-14_jan_2020.zip
