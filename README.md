@@ -49,6 +49,8 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 1. Install OpenJDK 1.8
    * Run `brew tap AdoptOpenJDK/openjdk`
    * Run `brew cask install adoptopenjdk8`
+   * Run `/usr/libexec/java_home -V` to find the path to your java home for version 1.8
+   * Set `JAVA_HOME` to that path
 
 	###### Check:
 	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
