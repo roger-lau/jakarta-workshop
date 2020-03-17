@@ -1,5 +1,5 @@
 # Step 1 - Launch the website
-Choose your operating system: [Windows](#windows), [Linux & Mac](#linux--Mac)
+Choose your operating system: [Windows](#windows), [Linux & Mac](#linux--mac)
 
 ## Windows
 1. Open Command Prompt as administrator

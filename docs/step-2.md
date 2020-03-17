@@ -1,5 +1,5 @@
 # Step 2 - Exploit!
-Choose your operating system: [Windows](#windows), [Linux & Mac](#linux--Mac)
+Choose your operating system: [Windows](#windows), [Linux & Mac](#linux--mac)
 
 ## Windows
 1. Open Command Prompt as administrator
