@@ -61,4 +61,4 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
 <br /><br /><br />
 # Great! You are done now.
-Reach out to others around you if you see them struggling. [Next: Step 1](./docs/step-1.md)
+Reach out to others around you if you see them struggling.
