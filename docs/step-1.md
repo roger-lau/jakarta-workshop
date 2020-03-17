@@ -1,24 +1,18 @@
-## Step 1
-##### Follow the instruction below.
+# Step 1 - Launch the website
+Choose your operating system: [Windows](#windows), [Linux & Mac](#linux-&-Mac)
 
-1. Install OpenJDK 1.8
-   * [Windows & Linux Installers](https://jdk.java.net/java-se-ri/8-MR3)
-   * [Linux command line (apt-get/yum)](https://openjdk.java.net/install/) (sudo apt update first before installing)
-   * [Mac](https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/)
-   * Make sure you are installing JDK 1.8, not the JRE.
-   * Set environment variable in Windows: [https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/]
-   * Set `JAVA_HOME` to the directory where JDK is installed, without the bin/ folder.
-	
-	###### Check the installation
-	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
-   
+## Windows
+1. Open Command Prompt as administrator
+1. Navigate to `code/` in the downloaded project
+1. Run `mvnw.cmd clean package`
+2. Run `mvnw.cmd jetty:run` to launch the website
+3. Browse `http://localhost:9080` to verify the website
 
-1. Install Maven : https://maven.apache.org/download.cgi
+## Linux & Mac
 
-1. Install Python: https://www.python.org/downloads/
+1. Open Terminal
+1. Navigate to `code/` in the downloaded project
+1. Run `./mvnw clean package`
+2. Run `./mvnw jetty:run` to launch the website
+3. Browse `http://localhost:9080` to verify the website
 
-1. Download this code: https://github.com/roger-lau/jakarta-workshop
-
-> Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
-
-##### Great! You are done now. Reach out to others around you if you see them struggling. 
