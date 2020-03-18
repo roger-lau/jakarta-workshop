@@ -10,11 +10,11 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
    * Set the path to `bin\` to `PATH` environment variable, e.g., `C:\java-se-8u41-ri\bin\`
    * Set the path to the installation folder to `JAVA_HOME` environment variable, e.g., `C:\java-se-8u41-ri\`
 
-	###### Note:
+		###### Note:
 	   > If the download link doesn't work anymore, find the download link in https://jdk.java.net/java-se-ri/8-MR3
 	  
-	###### Check:
-	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
+		###### Check:
+		> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
 
 1. Install Maven: https://maven.apache.org/download.cgi
 1. Install Python: https://www.python.org/downloads/
