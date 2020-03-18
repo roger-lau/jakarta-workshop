@@ -62,7 +62,7 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
   	* Download and install: https://www.python.org/downloads/
 
 		###### Check:
-		> Type `python2 --version` in command line.
+		> Type `python --version` in command line.
 1. Download this code: https://github.com/roger-lau/jakarta-workshop
 > Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
 
@@ -75,8 +75,14 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 
 	###### Check:
 	> Type `java -version` in command line. It should return `version "1.8.XXXXX"`
-1. Install Maven: https://maven.apache.org/download.cgi
-1. Install Python: https://www.python.org/downloads/
+1. Install Maven: `brew install maven`
+	###### Check:
+	> Type `mvn -v` in command line.
+
+1. Install Python: `brew install python`
+	###### Check:
+	> Type `python --version` in command line.
+
 1. Download this code: https://github.com/roger-lau/jakarta-workshop
 > Download using the `Clone or download` button on the top right corner. Do not use `git clone` command.
 
